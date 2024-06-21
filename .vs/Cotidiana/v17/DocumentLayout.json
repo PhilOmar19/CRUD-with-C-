@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\My files\\Programaci\u00F3n II\\Trabajos de clase\\Proyecto Tarea 2\\Cotidiana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{207511DA-1576-4580-9042-CAEEBD74DDD0}|Cotidiana\\Cotidiana.csproj|c:\\users\\lenovo\\desktop\\my files\\programaci\u00F3n ii\\trabajos de clase\\proyecto tarea 2\\cotidiana\\cotidiana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207511DA-1576-4580-9042-CAEEBD74DDD0}|Cotidiana\\Cotidiana.csproj|solutionrelative:cotidiana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207511DA-1576-4580-9042-CAEEBD74DDD0}|Cotidiana\\Cotidiana.csproj|C:\\Users\\LENOVO\\Desktop\\My files\\Programaci\u00F3n II\\Trabajos de clase\\Proyecto Tarea 2\\Cotidiana\\cotidiana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{207511DA-1576-4580-9042-CAEEBD74DDD0}|Cotidiana\\Cotidiana.csproj|solutionrelative:cotidiana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207511DA-1576-4580-9042-CAEEBD74DDD0}|Cotidiana\\Cotidiana.csproj|C:\\Users\\LENOVO\\Desktop\\My files\\Programaci\u00F3n II\\Trabajos de clase\\Proyecto Tarea 2\\Cotidiana\\cotidiana\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207511DA-1576-4580-9042-CAEEBD74DDD0}|Cotidiana\\Cotidiana.csproj|solutionrelative:cotidiana\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207511DA-1576-4580-9042-CAEEBD74DDD0}|Cotidiana\\Cotidiana.csproj|C:\\Users\\LENOVO\\Desktop\\My files\\Programaci\u00F3n II\\Trabajos de clase\\Proyecto Tarea 2\\Cotidiana\\cotidiana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207511DA-1576-4580-9042-CAEEBD74DDD0}|Cotidiana\\Cotidiana.csproj|solutionrelative:cotidiana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\My files\\Programaci\u00F3n II\\Trabajos de clase\\Proyecto Tarea 2\\Cotidiana\\Cotidiana\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Cotidiana\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\My files\\Programaci\u00F3n II\\Trabajos de clase\\Proyecto Tarea 2\\Cotidiana\\Cotidiana\\Form1.Designer.cs",
+              "RelativeToolTip": "Cotidiana\\Form1.Designer.cs",
+              "ViewState": "AQIAABYBAAAAAAAAAAAwwCQBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-07-02T18:10:40.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\My files\\Programaci\u00F3n II\\Trabajos de clase\\Proyecto Tarea 2\\Cotidiana\\Cotidiana\\Form1.cs",
+              "RelativeDocumentMoniker": "Cotidiana\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\My files\\Programaci\u00F3n II\\Trabajos de clase\\Proyecto Tarea 2\\Cotidiana\\Cotidiana\\Form1.cs [Design]",
+              "RelativeToolTip": "Cotidiana\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-28T20:41:34.66Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\My files\\Programaci\u00F3n II\\Trabajos de clase\\Proyecto Tarea 2\\Cotidiana\\Cotidiana\\Form1.cs",
+              "RelativeDocumentMoniker": "Cotidiana\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\My files\\Programaci\u00F3n II\\Trabajos de clase\\Proyecto Tarea 2\\Cotidiana\\Cotidiana\\Form1.cs",
+              "RelativeToolTip": "Cotidiana\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-28T23:12:14.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\My files\\Programaci\u00F3n II\\Trabajos de clase\\Proyecto Tarea 2\\Cotidiana\\Cotidiana\\Program.cs",
+              "RelativeDocumentMoniker": "Cotidiana\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\My files\\Programaci\u00F3n II\\Trabajos de clase\\Proyecto Tarea 2\\Cotidiana\\Cotidiana\\Program.cs",
+              "RelativeToolTip": "Cotidiana\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-28T21:26:39.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

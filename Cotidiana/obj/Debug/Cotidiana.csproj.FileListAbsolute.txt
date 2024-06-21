@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 2\Cotidiana\Cotidiana\bin\Debug\Cotidiana.exe.config
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 2\Cotidiana\Cotidiana\bin\Debug\Cotidiana.exe
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 2\Cotidiana\Cotidiana\bin\Debug\Cotidiana.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 2\Cotidiana\Cotidiana\obj\Debug\Cotidiana.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 2\Cotidiana\Cotidiana\obj\Debug\Cotidiana.Form1.resources
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 2\Cotidiana\Cotidiana\obj\Debug\Cotidiana.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 2\Cotidiana\Cotidiana\obj\Debug\Cotidiana.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 2\Cotidiana\Cotidiana\obj\Debug\Cotidiana.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 2\Cotidiana\Cotidiana\obj\Debug\Cotidiana.exe
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 2\Cotidiana\Cotidiana\obj\Debug\Cotidiana.pdb
